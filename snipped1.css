@@ -1,0 +1,276 @@
+@font-face { 
+  font-family:'montserrat';
+  font-style:normal;
+  font-weight:100;
+  src:url('./fonts/montserrat-100.woff2') format('woff2'),
+       url('./fonts/montserrat-100.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:italic;
+  font-weight:100;
+  src:url('./fonts/montserrat-100italic.woff2') format('woff2'),
+       url('./fonts/montserrat-100italic.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:normal;
+  font-weight:200;
+  src:url('./fonts/montserrat-200.woff2') format('woff2'),
+       url('./fonts/montserrat-200.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:italic;
+  font-weight:200;
+  src:url('./fonts/montserrat-200italic.woff2') format('woff2'),
+       url('./fonts/montserrat-200italic.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:normal;
+  font-weight:300;
+  src:url('./fonts/montserrat-300.woff2') format('woff2'),
+       url('./fonts/montserrat-300.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:italic;
+  font-weight:300;
+  src:url('./fonts/montserrat-300italic.woff2') format('woff2'),
+       url('./fonts/montserrat-300italic.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:normal;
+  font-weight:400;
+  src:url('./fonts/montserrat-regular.woff2') format('woff2'),
+       url('./fonts/montserrat-regular.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:italic;
+  font-weight:400;
+  src:url('./fonts/montserrat-italic.woff2') format('woff2'),
+       url('./fonts/montserrat-italic.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:normal;
+  font-weight:500;
+  src:url('./fonts/montserrat-500.woff2') format('woff2'),
+       url('./fonts/montserrat-500.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:italic;
+  font-weight:500;
+  src:url('./fonts/montserrat-500italic.woff2') format('woff2'),
+       url('./fonts/montserrat-500italic.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:normal;
+  font-weight:600;
+  src:url('./fonts/montserrat-600.woff2') format('woff2'),
+       url('./fonts/montserrat-600.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:italic;
+  font-weight:600;
+  src:url('./fonts/montserrat-600italic.woff2') format('woff2'),
+       url('./fonts/montserrat-600italic.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:normal;
+  font-weight:700;
+  src:url('./fonts/montserrat-700.woff2') format('woff2'),
+       url('./fonts/montserrat-700.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:italic;
+  font-weight:700;
+  src:url('./fonts/montserrat-700italic.woff2') format('woff2'),
+       url('./fonts/montserrat-700italic.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:normal;
+  font-weight:800;
+  src:url('./fonts/montserrat-800.woff2') format('woff2'),
+       url('./fonts/montserrat-800.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:italic;
+  font-weight:800;
+  src:url('./fonts/montserrat-800italic.woff2') format('woff2'),
+       url('./fonts/montserrat-800italic.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:normal;
+  font-weight:900;
+  src:url('./fonts/montserrat-900.woff2') format('woff2'),
+       url('./fonts/montserrat-900.woff') format('woff');
+} 
+@font-face { 
+  font-family:'montserrat';
+  font-style:italic;
+  font-weight:900;
+  src:url('./fonts/montserrat-900italic.woff2') format('woff2'),
+       url('./fonts/montserrat-900italic.woff') format('woff');
+} 
+  body {  
+    font-family:"Montserrat", Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-weight:400;
+    font-size:1.1rem;
+    line-height:1.2;
+    color:#000000;
+    text-transform:none;
+  }  
+* { 
+    box-sizing: border-box;
+} 
+
+* { 
+    scrollbar-color: auto; 
+    scrollbar-width: thin;
+} 
+
+div { 
+    margin: 0; 
+    padding: 0; 
+    border: 0;
+} 
+
+body { 
+    margin: 0; 
+    padding: 0; 
+    border: 0;
+} 
+
+body { 
+    font-family: "Montserrat", Arial, Verdana, Geneva, Helvetica, sans-serif; 
+    font-weight: 400; 
+    font-size: 1.1rem; 
+    line-height: 1.2;
+} 
+
+body { 
+    width: 100%; 
+    height: 100%; 
+    margin: 0; 
+    padding: 0; 
+    overscroll-behavior-y: contain;
+} 
+
+html { 
+    margin: 0; 
+    padding: 0; 
+    border: 0;
+} 
+
+html { 
+    font-size: 62.5%; 
+    -webkit-text-size-adjust: 100%; 
+    overflow-wrap: break-word;
+} 
+
+html { 
+    font-size: 62.5%;
+} 
+
+html { 
+    height: 100%; 
+    scroll-behavior: smooth; 
+    margin: 0; 
+    padding: 0;
+} 
+
+html { 
+    font-family: 'montserrat', Arial, Verdana, Geneva, Helvetica, sans-serif; 
+    text-transform: none;
+} 
+
+html { 
+    -webkit-text-size-adjust: none; 
+    -moz-text-size-adjust: none; 
+    -ms-text-size-adjust: none; 
+    text-size-adjust: none;
+} 
+
+:root { 
+    --theme-neutre-legere2-scalePlus10: #efefef; 
+    --couleur-non-editable: var(--theme-neutre-legere2-scalePlus10);
+} 
+
+*,:before,:after { 
+    box-sizing: border-box;
+} 
+
+:-webkit-scrollbar { 
+    width: 0.8rem; 
+    height: 0.8rem;
+} 
+
+:-webkit-scrollbar-thumb { 
+    background-color: #d9dbdc; 
+    box-shadow: inset 0 0 0.1rem rgba(0, 0, 0, 0.5); 
+    -webkit-box-shadow: inset 0 0 0.1rem rgba(0, 0, 0, 0.5);
+} 
+
+:-webkit-scrollbar-track { 
+    background-color: #ededed;
+} 
+
+:-webkit-scrollbar-corner { 
+    background-color: #ededed;
+} 
+
+:-webkit-scrollbar-thumb:hover { 
+    background-color: #bec2c4;
+} 
+
+.Texte10 { 
+    font-family: 'montserrat', Arial, Verdana, Geneva, Helvetica, sans-serif; 
+    text-transform: none;
+} 
+
+.Texte10 { 
+    line-height: 1.3rem;
+} 
+
+.Texte10 { 
+    font-size: 1.1rem;
+} 
+
+.EspaceBas { 
+    padding-bottom: 0.5rem;
+} 
+
+.Texte12 { 
+    font-family: 'montserrat', Arial, Verdana, Geneva, Helvetica, sans-serif; 
+    text-transform: none;
+} 
+
+.Texte12 { 
+    line-height: 17px;
+} 
+
+.Texte12 { 
+    font-size: 1.3rem;
+} 
+
+
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-sLA2d.style-sLA2d {  
+   padding: 20px;  
+}  
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-2oom1.style-2oom1 {  
+   padding: 20px;  
+}  
